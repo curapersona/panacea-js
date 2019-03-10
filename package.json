@@ -1,5 +1,5 @@
 {
-  "name": "panacea.js",
+  "name": "@medibloc/panacea-js",
   "version": "1.0.1",
   "description": "JavaScript library for MediBloc",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/medibloc/panacea.js.git"
+    "url": "git+https://github.com/medibloc/panacea-js.git"
   },
   "keywords": [
     "medibloc",
@@ -33,9 +33,9 @@
   "author": "MediBloc <dev@medibloc.org>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/medibloc/panacea.js/issues"
+    "url": "https://github.com/medibloc/panacea-js/issues"
   },
-  "homepage": "https://github.com/medibloc/panacea.js#readme",
+  "homepage": "https://github.com/medibloc/panacea-js#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "babel-runtime": "^6.26.0",

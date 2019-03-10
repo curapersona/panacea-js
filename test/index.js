@@ -9,7 +9,7 @@ import {
   utils,
 } from 'index';
 
-describe('panacea.js', () => {
+describe('panacea-js', () => {
   const defaultNodes = ['http://localhost:10000'];
 
   describe('#should export a init', () => {
